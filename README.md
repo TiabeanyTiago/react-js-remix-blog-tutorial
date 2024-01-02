@@ -3,6 +3,7 @@
 This repo exists to keep the source code I created during reading the Remix Blog Tutorial (https://remix.run/docs/en/main/tutorials/blog)
 
 <ul>
+<li>02/01/2024: Added marked package and using it to parse post.markdown and render it to HTML</li>
 <li>02/01/2024: Created "post" route and "post.$slug" route as well seeded basic data to SQLite</li>
 <li>02/01/2024: Scaffolded basic Remix application using "npx create-remix@latest --template remix-run/indie-stack blog-tutorial"</li>
 </ul>
